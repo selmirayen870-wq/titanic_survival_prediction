@@ -1,4 +1,4 @@
-# Titanic Survival Prediction 🚢
+# Titanic Survival Prediction 
 
 ## Project Overview
 This project aims to predict the survival of passengers aboard the Titanic using machine learning techniques and Python.
